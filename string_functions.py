@@ -27,4 +27,8 @@ a = "hello world"
 ans = a.upper()
 print(ans)
 
+a = "a b c d e f g h i"
+ans = a.split()
+print(ans)
+
 
