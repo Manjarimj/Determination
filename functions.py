@@ -11,5 +11,5 @@ d = "W"
 ans = userdefined_isupper(b)
 ans1 = userdefined_isupper(d)
 print(ans)
-print(ans1)
+print(ans)
 
