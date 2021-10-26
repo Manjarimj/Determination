@@ -1,0 +1,54 @@
+level 0, absolute beginner
+    1.
+    Print
+    variables and data types
+    string functions
+    user input
+    map
+    functions
+    operators
+    2. 
+    Abstract Data Structure
+        List
+        Tuple / Set
+        Dictionary
+    Number System
+    BitWise operators
+    Math functions
+    if..elif..else
+    loops
+        While
+        For
+        Recursion
+    3. 
+    Pip installer
+    Packages
+    Numpy
+level 1, Competative Programming
+    1. 
+level 2, OOPS
+    1.
+    Classes and Objects
+    __init__
+    Constructors, Self
+    Types of variables
+    Types of Methods
+    Comparing Objects
+    Types of Classes
+    2.
+    Inheritance and its Types
+    Abstraction
+    Polymorphism
+    Duck typing
+    Operator Over loading
+    Method Overriding
+Level 3, Socket Programming
+Level 4, Data Structures and Its Implenmentations
+level 5, DataBase Connections and SQL
+level 6, Adavanved Python
+    
+
+
+
+
+    
