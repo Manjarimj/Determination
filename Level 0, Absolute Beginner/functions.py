@@ -13,3 +13,14 @@ ans1 = userdefined_isupper(d)
 print(ans)
 print(ans)
 
+
+
+def greet():
+    print("Good Morning")
+    print("had ur breakfast")
+
+greet()
+
+greet()
+
+greet()
