@@ -23,7 +23,7 @@ level 0, absolute beginner
     3. 
     Pip installer
     Packages
-    Numpy
+    Numpy, Scipy, pandas
 level 1, Competative Programming
     1. 
 level 2, OOPS
@@ -45,7 +45,7 @@ level 2, OOPS
 Level 3, Socket Programming
 Level 4, Data Structures and Its Implenmentations
 level 5, DataBase Connections and SQL
-level 6, Adavanved Python
+level 6, Adavanced Python
     
 
 
