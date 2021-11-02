@@ -12,15 +12,16 @@ level 0, absolute beginner
         List
         Tuple / Set
         Dictionary
-    Number System
-    BitWise operators
-    Math functions
     if..elif..else
     loops
         While
         For
         Recursion
     3. 
+    Number System
+    BitWise operators
+    Math functions
+    kwargs**, args*
     Pip installer
     Packages
     Numpy, Scipy, pandas
